@@ -1,4 +1,4 @@
-# phonepe pulse data visulization
+# phonepe pulse data visualization
 phonepe pulse data visualiztion and exploration - A user friendly tool using Streamlit and plotly
 I have created a phonepe pulse data vislualisation using streamlit and plotly.
 **Technologies used:**
