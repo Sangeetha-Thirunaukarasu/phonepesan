@@ -1,0 +1,9 @@
+**Technologies used:**
+Github cloning,
+python - 3.9.16,
+pandas - 2.0.1 ,
+MySQL(sqlalchemy - 2.0.12 , pymysql - 1.0.3),
+Streamlit - 1.22.0,
+plotly - 5.14.1
+jeojson file containing location boundaries of india
+
